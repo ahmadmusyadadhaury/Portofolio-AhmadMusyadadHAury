@@ -1,0 +1,15 @@
+@import 'tailwindcss';
+
+@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
+@source '../../storage/framework/views/*.php';
+@source '../**/*.blade.php';
+@source '../**/*.js';
+
+@theme {
+    --font-sans: 'Outfit', 'Inter', ui-sans-serif, system-ui, sans-serif;
+    --color-dark-bg: #09090e;
+    --color-neon-purple: #9d4edd;
+    --color-neon-magenta: #ff007f;
+    --color-neon-blue: #00b4d8;
+    --color-neon-cyan: #00f5d4;
+}
