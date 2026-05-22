@@ -236,7 +236,7 @@
                         <a href="#projects" class="px-8 py-3.5 rounded-full border border-slate-700 hover:border-neon-cyan text-white hover:bg-neon-cyan/5 transition-all flex items-center gap-2">
                             <i class='bx bx-briefcase'></i> View Projects
                         </a>
-                        <a href="#" class="px-8 py-3.5 rounded-full border border-slate-700 hover:border-neon-cyan text-white hover:bg-neon-cyan/5 transition-all flex items-center gap-2">
+                        <a href="{{ asset('CV_Ahmad_Musyadad_Haury.pdf') }}" target="_blank" download class="px-8 py-3.5 rounded-full border border-slate-700 hover:border-neon-cyan text-white hover:bg-neon-cyan/5 transition-all flex items-center gap-2">
                             <i class='bx bx-download'></i> Download CV
                         </a>
                     </div>
@@ -385,7 +385,7 @@
                             <a href="https://almadinahbogor.sch.id" target="_blank" class="flex-1 text-center py-2.5 rounded-xl bg-white text-dark-bg font-semibold hover:bg-neon-cyan transition-colors flex items-center justify-center gap-2 text-sm">
                                 <i class='bx bx-link-external'></i> Live Preview
                             </a>
-                            <a href="#" class="w-10 h-10 rounded-xl border border-white/10 flex items-center justify-center hover:bg-white/5 transition-colors text-white">
+                            <a href="https://github.com/ahmadmusyadadhaury" target="_blank" class="w-10 h-10 rounded-xl border border-white/10 flex items-center justify-center hover:bg-white/5 transition-colors text-white">
                                 <i class='bx bxl-github text-xl'></i>
                             </a>
                         </div>
@@ -419,7 +419,7 @@
                             <a href="https://sippra-jabar.com" target="_blank" class="flex-1 text-center py-2.5 rounded-xl bg-white text-dark-bg font-semibold hover:bg-neon-cyan transition-colors flex items-center justify-center gap-2 text-sm">
                                 <i class='bx bx-link-external'></i> Live Preview
                             </a>
-                            <a href="#" class="w-10 h-10 rounded-xl border border-white/10 flex items-center justify-center hover:bg-white/5 transition-colors text-white">
+                            <a href="https://github.com/ahmadmusyadadhaury" target="_blank" class="w-10 h-10 rounded-xl border border-white/10 flex items-center justify-center hover:bg-white/5 transition-colors text-white">
                                 <i class='bx bxl-github text-xl'></i>
                             </a>
                         </div>
@@ -453,7 +453,7 @@
                             <a href="https://pmbsit.almadinahbogor.sch.id" target="_blank" class="flex-1 text-center py-2.5 rounded-xl bg-white text-dark-bg font-semibold hover:bg-neon-cyan transition-colors flex items-center justify-center gap-2 text-sm">
                                 <i class='bx bx-link-external'></i> Live Preview
                             </a>
-                            <a href="#" class="w-10 h-10 rounded-xl border border-white/10 flex items-center justify-center hover:bg-white/5 transition-colors text-white">
+                            <a href="https://github.com/ahmadmusyadadhaury" target="_blank" class="w-10 h-10 rounded-xl border border-white/10 flex items-center justify-center hover:bg-white/5 transition-colors text-white">
                                 <i class='bx bxl-github text-xl'></i>
                             </a>
                         </div>
@@ -533,22 +533,22 @@
                                     <p class="text-white font-medium group-hover:text-neon-cyan transition-colors">ahmadmusyadadhaury@gmail.com</p>
                                 </div>
                             </a>
-                            <a href="https://wa.me/6281234567890" target="_blank" class="flex items-center gap-4 group">
+                            <a href="https://wa.me/6289507135674" target="_blank" class="flex items-center gap-4 group">
                                 <div class="w-14 h-14 rounded-2xl bg-white/5 flex items-center justify-center border border-white/5 group-hover:border-neon-cyan/50 group-hover:bg-neon-cyan/10 group-hover:shadow-[0_0_15px_rgba(0,245,212,0.3)] transition-all">
                                     <i class='bx bxl-whatsapp text-2xl text-slate-300 group-hover:text-neon-cyan'></i>
                                 </div>
                                 <div>
                                     <p class="text-sm text-slate-400 mb-1">WhatsApp</p>
-                                    <p class="text-white font-medium group-hover:text-neon-cyan transition-colors">Contact via WhatsApp</p>
+                                    <p class="text-white font-medium group-hover:text-neon-cyan transition-colors">0895-0713-5674</p>
                                 </div>
                             </a>
                         </div>
 
                         <div class="flex items-center gap-4 mt-10">
-                            <a href="#" class="w-12 h-12 rounded-full bg-white/5 flex items-center justify-center border border-white/5 hover:border-neon-cyan/50 hover:bg-neon-cyan/10 hover:shadow-[0_0_15px_rgba(0,245,212,0.3)] text-slate-300 hover:text-neon-cyan transition-all hover:-translate-y-1">
+                            <a href="https://github.com/ahmadmusyadadhaury" target="_blank" class="w-12 h-12 rounded-full bg-white/5 flex items-center justify-center border border-white/5 hover:border-neon-cyan/50 hover:bg-neon-cyan/10 hover:shadow-[0_0_15px_rgba(0,245,212,0.3)] text-slate-300 hover:text-neon-cyan transition-all hover:-translate-y-1">
                                 <i class='bx bxl-github text-xl'></i>
                             </a>
-                            <a href="#" class="w-12 h-12 rounded-full bg-white/5 flex items-center justify-center border border-white/5 hover:border-neon-cyan/50 hover:bg-neon-cyan/10 hover:shadow-[0_0_15px_rgba(0,245,212,0.3)] text-slate-300 hover:text-neon-cyan transition-all hover:-translate-y-1">
+                            <a href="https://www.linkedin.com/in/ahmad-musyadad-haury-9232a3311" target="_blank" class="w-12 h-12 rounded-full bg-white/5 flex items-center justify-center border border-white/5 hover:border-neon-cyan/50 hover:bg-neon-cyan/10 hover:shadow-[0_0_15px_rgba(0,245,212,0.3)] text-slate-300 hover:text-neon-cyan transition-all hover:-translate-y-1">
                                 <i class='bx bxl-linkedin text-xl'></i>
                             </a>
                             <a href="#" class="w-12 h-12 rounded-full bg-white/5 flex items-center justify-center border border-white/5 hover:border-neon-cyan/50 hover:bg-neon-cyan/10 hover:shadow-[0_0_15px_rgba(0,245,212,0.3)] text-slate-300 hover:text-neon-cyan transition-all hover:-translate-y-1">
